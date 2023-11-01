@@ -10,6 +10,4 @@ Environment::load(__DIR__);
 // Get defined Env Variables
 $env = getenv();
 
-echo '<pre>';
-print_r($env);
-echo '</pre>';
+
